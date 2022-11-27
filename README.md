@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustUzair
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning about Blockchain and Web3 
 - 📫 Reach me on uzairhajra76330@gmail.com
 
 <!---
