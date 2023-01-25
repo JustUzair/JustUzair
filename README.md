@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **uzairhajra76330@gmail.com**
 
-- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1i8EppXkl3xPtb0dDt3pR0g0TZzQOnz2I/view?usp=share_link)**
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1q1fZlVoOOnpP4WIy6yBNMlRrgpLTIQlS/view?usp=drivesdk)**
 
 - ⚡ Fun fact- **I love binge-watching web-series, movies, playing games. These are my personal stress busters**
 
