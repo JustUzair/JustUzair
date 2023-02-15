@@ -1,4 +1,6 @@
 <!-- Create this readme profile from https://rahuldkjain.github.io/gh-profile-readme-generator/  -->
+
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
 <h1 align="center">Hi 👋, I'm Uzair Saiyed</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
