@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JustUzair&label=Profile%20views&color=0e75b6&style=flat" alt="JustUzair" /> </p>
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **web3 technologies**
+- 👯 I’m looking to collaborate on **Web3 & Blockchain projects**
 
 - 👨‍💻 Have a look at **[my webiste](https://portfolio-uzair-saiyed.vercel.app/)**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Web2 & Web3 development**
 
 - 📫 How to reach me **uzairhajra76330@gmail.com**
 
