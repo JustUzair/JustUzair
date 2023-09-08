@@ -35,5 +35,5 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=JustUzair&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </td> </table>
 <table align="center"> <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustUzair&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact&exclude_repo=device_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,device_xiaomi_laurel_sprout,vendor_xiaomi_laurel_sprout,kernel_xiaomi_laurel_sprout,build_soong_java,hardware_qcom-caf_sm8150_display,packages_apps_Settings,laurel_sprout_decompiled_overlays&hide=Assembly,Dockerfile,Lua,M4,Objective-C,Perl,Roff,Yacc" />
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustUzair&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </td> </table>
