@@ -33,7 +33,7 @@
 <table align="center">
 <td>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=JustUzair&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
 </td>
 </table>
 <table align="center"> <td>
