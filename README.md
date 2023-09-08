@@ -35,5 +35,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=JustUzair&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </td> </table>
 <table align="center"> <td>
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustUzair&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustUzair\&layout=compact)
 </td> </table>
