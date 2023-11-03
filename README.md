@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web3 & Blockchain projects**
 
-- 👨‍💻 Have a look at **[my webiste](https://portfolio-uzair-saiyed.vercel.app/)**
+- 👨‍💻 Have a look at **[my webiste](https://justuzair.vercel.app/)**
 
 - 💬 Ask me about **Web2 & Web3 development**
 
