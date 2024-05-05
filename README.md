@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/0xJustUzair" target="blank"><img src="https://img.shields.io/twitter/follow/0xJustUzair?logo=twitter&style=for-the-badge" alt="0xJustUzair" /></a> </p>
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Web3 Security alongside Web3 Development**
 
 - 👯 I’m looking to collaborate on **Web3 & Blockchain projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web2 & Web3 development**
 
-- 📫 How to reach me **uzairhajra76330@gmail.com**
+- 📫 How to reach me **justuzairsaiyed@gmail.com**
 
 - 📄 Know about my experiences **[here](https://drive.google.com/drive/folders/1L-lZl6R3ryGMujmqlVnU3ZjN2onxpmuN)**
 
