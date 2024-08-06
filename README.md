@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/0xJustUzair" target="blank"><img src="https://img.shields.io/twitter/follow/0xJustUzair?logo=twitter&style=for-the-badge" alt="0xJustUzair" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web3 Security alongside Web3 Development**
+- 🌱 I’m currently learning **Learning & Working on Web3 Development & Security**
 
 - 👯 I’m looking to collaborate on **Web3 & Blockchain projects**
 
