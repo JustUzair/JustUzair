@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/0xJustUzair" target="blank"><img src="https://img.shields.io/twitter/follow/0xJustUzair?logo=twitter&style=for-the-badge" alt="0xJustUzair" /></a> </p>
 
 
-- 🌱 I’m currently learning **Learning & Working on Web3 Development & Security**
+- 🌱 I’m currently learning **Researching & Working on Web3 Development & Security**
 
 - 👯 I’m looking to collaborate on **Web3 & Blockchain projects**
 
-- 👨‍💻 Have a look at **[my webiste](https://justuzair.vercel.app/)**
+- 👨‍💻 Have a look at my **[Portfolio](https://justuzair.vercel.app/)**
 
 - 💬 Ask me about **Web2 & Web3 development**
 
