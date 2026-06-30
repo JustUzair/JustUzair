@@ -22,7 +22,7 @@ Building developer infrastructure, AI-assisted systems, security tooling, and ap
 
 ## About Me
 
-I enjoy building systems that sit underneath products rather than products themselves.
+I build the systems underneath products: developer tooling, backend platforms, AI-assisted workflows, and operational infrastructure.
 
 My interests span developer infrastructure, security engineering, AI-assisted software development, backend architecture, observability, monitoring systems, and application reliability.
 
